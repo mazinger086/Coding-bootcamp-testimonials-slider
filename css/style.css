@@ -222,7 +222,7 @@ html {
   }
 
  
-  footer .attribution {
+  .attribution {
     position: absolute;
     font-size: 11px;
     bottom: 20px;
